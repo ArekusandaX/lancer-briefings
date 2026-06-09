@@ -2,18 +2,18 @@
   "initialSlug": "001",
   "planetPath": "/planet.webm",
   "animate": true,
-  "defaultTitle": "Союз |",
+  "defaultTitle": "UNION |",
   "icon": "/faction-logos/GMS.svg",
   "header": {
-    "planet": "Делкан-1140",
+    "planet": "Delkan-1140",
     "year": "5016u",
-    "system": "Диаспора",
-    "gate": "Крессиудим",
+    "system": "Diaspora",
+    "gate": "Kressiudim",
     "ring": "SC-14",
-    "headerTitle": "Союз",
-    "headerSubtitle": "Силы порядка",
-    "subheaderTitle": "Операция",
-    "subheaderSubtitle": "Последний рубеж"
+    "headerTitle": "UNION",
+    "headerSubtitle": "Peacekeeping Force",
+    "subheaderTitle": "Operation",
+    "subheaderSubtitle": "Last Frontier"
   },
   "pilotSpecialInfo": {}
 }
