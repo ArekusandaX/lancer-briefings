@@ -2,18 +2,18 @@
   "initialSlug": "001",
   "planetPath": "/planet.webm",
   "animate": true,
-  "defaultTitle": "MSMC |",
-  "icon": "/faction-logos/msmc.svg",
+  "defaultTitle": "Союз |",
+  "icon": "/faction-logos/GMS.svg",
   "header": {
-    "planet": "Heiligtum-6 'Deep Blue'",
-    "year": "5017u",
-    "system": "Heiligtum",
-    "gate": "Rào Cỏ",
-    "ring": "Annamite",
-    "headerTitle": "Mirrorsmoke",
-    "headerSubtitle": "Mercenary Company",
-    "subheaderTitle": "Contract Work",
-    "subheaderSubtitle": "Sierra-Whiskey-Alpha-Golf"
+    "planet": "Делкан-1140",
+    "year": "5016u",
+    "system": "Диаспора",
+    "gate": "Крессиудим",
+    "ring": "SC-14",
+    "headerTitle": "Союз",
+    "headerSubtitle": "Силы Поддержания Порядка",
+    "subheaderTitle": "Оперативный статус",
+    "subheaderSubtitle": "Последний рубеж"
   },
   "pilotSpecialInfo": {}
 }
